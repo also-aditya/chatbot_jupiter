@@ -1,6 +1,6 @@
-requests
-bs4
-re
-sentence_transformers
-faiss
-typing
+streamlit>=1.28.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+numpy>=1.24.0
+faiss-cpu>=1.7.0
+sentence-transformers>=2.2.2
