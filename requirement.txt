@@ -1,0 +1,6 @@
+requests
+bs4
+re
+sentence_transformers
+faiss
+typing
